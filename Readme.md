@@ -1,4 +1,4 @@
-# This is the first group project as part of the requirements of CSIS3290
+# This is the third group project as part of the requirements of CSIS3290
 
 ### Group members
 
